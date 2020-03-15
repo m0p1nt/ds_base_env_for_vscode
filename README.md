@@ -1,0 +1,2 @@
+# ds_base_env_for_vscode
+VSCode向けPythonデータサイエンスベース環境
